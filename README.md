@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-arun&label=Profile%20views&color=0e75b6&style=flat" alt="developer-arun" /> </p>
 
-- 🔭 I’m currently working on [Mern project](https://github.com/developer-arun/mern_project)
+- 🔭 I’m currently working on [mini project](https://github.com/developer-arun/mini_project)
 
 - 🌱 I’m currently learning **MERN stack**
 
